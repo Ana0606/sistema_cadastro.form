@@ -6,7 +6,7 @@
     {
        // Acessa
        include_once('config.php');
-       $email = $_POST['email'];
+       $email = $_POST['email'];  
        $senha = $_POST['senha'];
 
        //print_r('Email: ' . $email);
